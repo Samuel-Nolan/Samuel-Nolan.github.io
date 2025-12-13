@@ -1,0 +1,16 @@
+# 由Hugo生成的网站文件夹
+/public/
+/resources/_gen/
+# Hugo的模块缓存
+/_vendor/
+# 操作系统产生的临时文件
+.DS_Store
+Thumbs.db
+# 编辑器/IDE的配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+# 环境变量或本地配置文件
+.env
+.env.local
