@@ -23,4 +23,3 @@ If you are interested in collaborating on a project, discussing technology, or j
 
 * **✉️ Email:** **nolan042411@gmail.com**
 * **🌐 GitHub:** **[My GitHub](https://github.com/Samuel-Nolan)**
-* **🔗 Personal Link:** [Your LinkedIn or Other Primary Link]
