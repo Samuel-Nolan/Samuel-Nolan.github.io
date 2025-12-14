@@ -8,3 +8,4 @@ title = 'My First Post'
 ## Introduction
 
 你好
+welcome

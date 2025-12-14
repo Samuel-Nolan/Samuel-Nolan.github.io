@@ -1,7 +1,0 @@
-baseURL = 'https://samuel-nolan.github.io/'
-languageCode = "zh-CN"
-title = "Zhiyu Ni 倪志宇"
-theme = "PaperMod"
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
