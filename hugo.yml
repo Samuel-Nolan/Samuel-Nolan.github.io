@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Zhiyu Ni 倪志宇 🙂"
-    subtitle: 'I am a 3rd Software Engineering student (Class of 2023) at Soochow University.<br><br>✉️ <strong>Email:</strong> nolan042411@gmail.com'
+    subtitle: 'I am a fourth-year Software Engineering student from the Class of 2023 at Soochow University.<br><br>✉️ <strong>Email:</strong> nolan042411@gmail.com'
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
